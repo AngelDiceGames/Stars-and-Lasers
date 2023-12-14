@@ -1,0 +1,1 @@
+A [[Terran]] and adoptive daughter of [[9 - Unknown Atavuli]] and [[Laras'nye]]. As sister to [[Itzl Atavuli]], Tess Atavuli became one of her most trusted advisors and succeeded from [[The Alliance]] to assist [[Itzl Atavuli]] when she formed [[The Empire]].

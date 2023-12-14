@@ -1,0 +1,1 @@
+In [[2501 TMY]]  The Star Bi-Hadral underwent a type 1a supernova. This supernova left a roaming black-hole that was blasted towards the [[Terra Maxima]] system and would later result in the [[Destruction of Terra Maxima]].

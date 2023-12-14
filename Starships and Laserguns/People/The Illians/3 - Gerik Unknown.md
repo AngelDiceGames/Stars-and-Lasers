@@ -1,0 +1,1 @@
+Gerik was a Male Terran who became one of [[The Illians]] in the Year [[2525 TMY]]

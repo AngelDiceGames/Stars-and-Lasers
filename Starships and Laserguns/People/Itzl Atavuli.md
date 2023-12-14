@@ -1,0 +1,1 @@
+The half [[Du'Lak]], daughter of [[9 - Unknown Atavuli]] and [[Laras'nye]]. Along with her adopted sister, [[Tess Atavuli]], Itzl went on to succeed from [[The Alliance]], and founded [[The Empire]], becoming the Empress.

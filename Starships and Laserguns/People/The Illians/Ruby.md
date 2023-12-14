@@ -1,0 +1,1 @@
+Ruby was one of the [[Fragment AIs]] specially designed to assist [[6 - Harriet Cooper]]

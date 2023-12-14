@@ -1,0 +1,1 @@
+Harriet Cooper was a Female Terran who became one of [[The Illians]] in the Year [[2525 TMY]]

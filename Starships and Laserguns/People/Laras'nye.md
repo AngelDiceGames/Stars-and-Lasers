@@ -1,0 +1,1 @@
+Sister of [[Lanas'nye]], Laras'nye was an [[Extended]] [[Du'Lak]] woman born on [[Twill]]. She eventually reached the rank of Supreme Fleet Admiral within the [[Alliance Navy]], and went on to marry [[9 - Unknown Atavuli]]. Additionally she was the mother of [[Itzl Atavuli]] and adoptive mother of [[Tess Atavuli]].
