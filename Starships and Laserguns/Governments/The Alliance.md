@@ -21,7 +21,7 @@ In the year [[2,239 ARD]] the Alliance encountered the system of [[Nu'VaeLaa]], 
 
 In the year [[3,426 ARD]] an observation satellite in orbit of [[Draco]] was damaged by a micro meteorite. Within the year, the [[Dracon]]s had sent up an early space-flight mission to capture the satellite. They reverse engineered it, and using the communication protocols on the satellite made first contact with the Alliance in [[3,698 ARD]].
 
-Supreme Fleet Admiral Laras'nye prevented the Dracons from joining the Alliance for nearly 300 years as she held a grudge over the death of her sister Lanas'nye. However, eventually she was overruled and the Dracons joined the Alliance in [[3,704 ARD]].
+Supreme Fleet Admiral Laras'nye prevented the Dracons from joining the Alliance for nearly 300 years as she held a grudge over the death of her sister [[Lanas'nye]]. However, eventually she was overruled and the Dracons joined the Alliance in [[3,704 ARD]].
 
 The Alliance encountered the world of [[Fraya (Planet)]] in the [[Fraya (Star system)]] system, in the year [[3,926 ARD]]. Here they met the [[Frayan]]s, and made first contact. The Frayans were not eager to give up their independence and refused to join the Alliance, but established peaceful, if limited, relations.
 
