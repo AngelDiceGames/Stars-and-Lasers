@@ -5,7 +5,7 @@ tags:
 ---
 #### Images
 ![[unknown3.png]]
-	A sketch of an Ennuan ???, by Kurohagane.
+	A sketch of an Ennuan male by Kurohagane.
 #### Appearance
 The Ennuan are a humanoid avian race that are from the world of [[Corr'an]] in the [[Corr'ak]] system. The Ennuan are roughly humanoid, though their arms are winged and they sport a long feathered tail and extra set of winged arms. The Ennuan's arms are segmented into three sections; the upper and middle arms are similar in structure to that of other humanoid races, however between the middle and lower arm sections is the hand. The Lower arm section is used solely for supporting the wing and folds the opposite direction to the elbow. It is also significantly weaker, similar in strength to two fingers.
 

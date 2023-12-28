@@ -4,22 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e617466867f7d065",
+        "id": "f87e85450a450edf",
         "type": "tabs",
         "children": [
           {
-            "id": "41cd283ef5b96c89",
+            "id": "9b5533d1f7479cbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things/Extention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f62b8210471b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things/Extention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things/Extention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +127,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Things/Extention.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,48 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41cd283ef5b96c89",
+  "active": "0f62b8210471b5b5",
   "lastOpenFiles": [
-    "Governments/Children of Cylax.md",
-    "Things/Extention.md",
-    "People/Lanas'nye.md",
-    "Governments/The Alliance.md",
-    "People/Laras'nye.md",
+    "People/The Illians/Ruby.md",
+    "People/The Illians/Fragment AIs.md",
+    "People/The Illians/Emerald.md",
+    "People/Tess Atavuli.md",
+    "People/Itzl Atavuli.md",
+    "People/Dr Harvey Grannel.md",
     "People/Oscarius Aquilinus.md",
-    "Images/Gal Map 02.png",
-    "Races/Ennuan.md",
-    "Governments/The Empire.md",
-    "Events/The First Stellar War.md",
-    "Events/Destruction of Terra Maxima.md",
-    "Events/The Bi-Hadral Incident.md",
+    "People/Laras'nye.md",
+    "People/Lanas'nye.md",
     "Governments/Lii Empire.md",
-    "Places/Faraway.md",
-    "Places/Omnia.md",
+    "Governments/Children of Cylax.md",
+    "Factions/ACS.md",
+    "Factions/AI council.md",
+    "Factions/Alliance Navy.md",
     "Places/The Milky Way.md",
-    "Races/Alcinnian.md",
+    "Places/Omnia.md",
+    "Places/Faraway.md",
+    "Governments/The Alliance.md",
+    "Governments/United Terran Governance.md",
+    "Governments/The Federation Of Worlds.md",
+    "Governments/The Empire.md",
+    "Governments/Royal Twill Queendom.md",
+    "Places/Planets and Moons/Arlax.md",
+    "Places/Planets and Moons/Atu'urn.md",
     "Races/Artificial Intelligence.md",
-    "Races/Human.md",
-    "Dates/1,897,632 ARD.md",
-    "Dates/1,780,652 ARD.md",
-    "Dates/1,780,656 ARD.md",
-    "Events/The First Civil War.md",
-    "Places/Ringworlds/Ring 6.md",
-    "Races/Zangen.md",
-    "Races/Xenii.md",
-    "Races/Xavaan.md",
-    "Languages",
+    "Races/Alcinnian.md",
+    "Images/unknown3.png",
+    "Images/unknown4.png",
+    "Images/slfrayantransparent.png",
+    "Images/sldracontransparent.png",
+    "Images/sldraconkatanatransparent.png",
+    "Images/slaitransparent.png",
+    "Images/Glowy_Race_Attempt.png",
+    "Images/Gal Map 02.png",
+    "Images/0d550b0b-1d52-4253-8097-7fe12e372c8e.png",
     "Untitled.canvas",
+    "Languages",
     "Miscelanious",
     "Factions/Alliance Factions",
-    "Images/slaitransparent.png",
-    "Images/0d550b0b-1d52-4253-8097-7fe12e372c8e.png",
     "0d550b0b-1d52-4253-8097-7fe12e372c8e 1.png",
-    "Images/unknown2 1.png",
-    "Images/unknown1 1.png",
-    "Images/unknown1.png",
-    "Images/unknown2.png",
-    "Images/slterran2transparent.png",
-    "Images/Glowy_Race_Attempt.png",
     "Factions/Mega Corporations",
     "Things/Weapons",
     "Things/Starships",

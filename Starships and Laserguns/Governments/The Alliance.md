@@ -8,7 +8,7 @@ The Alliance is a nation state that covers the majority of [[Omnia]].
 ### History
 ##### Formation
 Formed in [[2493 TMY]] the Alliance was created to solidify the end of [[The First Stellar War]]. The Alliance was created first as a literal Alliance between the [[United Terran Governance]] and the [[Royal Twill Queendom]]. 
-Over the course of the 20 to 30 years the Alliance between the two stellar nations evolved into a singular nation state in and of itself.
+Over the course of the next 20 to 30 years the Alliance between the two stellar nations evolved into a singular nation state in and of itself.
 This alliance was formed in the aftermath of [[The First Stellar War]] as an attempt to prevent another full scale interstellar war from ever occurring again. Both the [[Terran]]s and [[Du'Lak]] had a long history of total warfare, but this war was so devastating that both sides agreed that such a thing must be prevented at all costs in the future.
 
 ##### Growth
@@ -37,7 +37,7 @@ Nearly 3,000 years later in [[7,115 ARD]] an [[ACS]] starship traced signals in 
 
 Under 300 years later, in [[7,515 ARD]] the Alliance was attacked by the [[Children of Cylax]]. The Alliance, being over 7,000 years more technologically advanced, and far larger easily crushed the Zangen's empire in the ensuing war, and the Zangen were forced to surrender when the Alliance occupied Cylax in [[7,519 ARD]]. When the Zangen capitulated, they were forced to join the Alliance, a particularly unpopular move on both sides, but one backed by all nine of [[The Illians]], who still remembered the original purpose of the Alliance.
 
-In [[8,532 ARD]] an [[ACS]] pilot encountered a massive fleet of ancient starships slowly warping at slower-than-light speeds through the void between stars. This fleet was the [[Drachnie]] nomad fleet that had been slowly travelling between stars for over 17,000 years. The fleet were perfectly content to maintain their lifestyle, and although they engaged in some trade with the alliance over the following years
+In [[8,532 ARD]] an [[ACS]] pilot encountered a massive fleet of ancient starships slowly warping at slower-than-light speeds through the void between stars. This fleet was the [[Drachnie]] nomad fleet that had been slowly travelling between stars for over 17,000 years. The fleet were perfectly content to maintain their lifestyle, although they engaged in some trade with the alliance over the following years
 
 In the year [[10,256 ARD]] the Alliance discovered a race calling themselves the [[Kelkex]]. The [[Kelkex]] were in the process of launching themselves into orbit via a system of magnetic acceleration rails at the time.
 
