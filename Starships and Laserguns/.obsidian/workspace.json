@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f87e85450a450edf",
+        "id": "9ece0a5f90c43651",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5533d1f7479cbb",
+            "id": "3e92521e6e34be70",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f62b8210471b5b5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Races/Ra'avnii.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Races/Ra'avnii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Races/Ra'avnii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Races/Ra'avnii.md"
+              }
             }
           }
         ]
@@ -146,34 +145,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f62b8210471b5b5",
+  "active": "3e92521e6e34be70",
   "lastOpenFiles": [
-    "People/The Illians/Ruby.md",
-    "People/The Illians/Fragment AIs.md",
-    "People/The Illians/Emerald.md",
-    "People/Tess Atavuli.md",
-    "People/Itzl Atavuli.md",
-    "People/Dr Harvey Grannel.md",
-    "People/Oscarius Aquilinus.md",
-    "People/Laras'nye.md",
-    "People/Lanas'nye.md",
+    "Races/Ennuan.md",
+    "Races/Floranian.md",
+    "Races/Ra'avnii.md",
+    "Races/Frayan.md",
+    "Factions/ACS.md",
+    "Factions/ANI/Alliance Naval Intelligence.md",
+    "Governments/The Empire.md",
+    "Governments/Royal Twill Queendom.md",
     "Governments/Lii Empire.md",
     "Governments/Children of Cylax.md",
-    "Factions/ACS.md",
-    "Factions/AI council.md",
+    "Governments/United Terran Governance.md",
+    "Governments/The Federation Of Worlds.md",
+    "People/The Illians/5 - Unknown Unknown.md",
+    "People/The Illians/9 - Unknown Atavuli.md",
+    "People/Itzl Atavuli.md",
+    "People/Oscarius Aquilinus.md",
+    "Events/The First Civil War.md",
     "Factions/Alliance Navy.md",
+    "Factions/AI council.md",
     "Places/The Milky Way.md",
     "Places/Omnia.md",
     "Places/Faraway.md",
-    "Governments/The Alliance.md",
-    "Governments/United Terran Governance.md",
-    "Governments/The Federation Of Worlds.md",
-    "Governments/The Empire.md",
-    "Governments/Royal Twill Queendom.md",
-    "Places/Planets and Moons/Arlax.md",
-    "Places/Planets and Moons/Atu'urn.md",
-    "Races/Artificial Intelligence.md",
-    "Races/Alcinnian.md",
+    "People/The Illians/The Illians.md",
+    "People/Dr Harvey Grannel.md",
+    "People/Lanas'nye.md",
+    "People/Raan'ilo.md",
     "Images/unknown3.png",
     "Images/unknown4.png",
     "Images/slfrayantransparent.png",
