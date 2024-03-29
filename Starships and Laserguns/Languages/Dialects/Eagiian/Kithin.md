@@ -1,0 +1,1 @@
+This is a dialect of [[Eagiian]], often called Form II Frontish.

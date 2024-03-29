@@ -9,7 +9,7 @@ The Alliance is a nation state that covers the majority of [[Omnia]].
 ##### Formation
 Formed in [[2493 TMY]] the Alliance was created to solidify the end of [[The First Stellar War]]. The Alliance was created first as a literal Alliance between the [[United Terran Governance]] and the [[Royal Twill Queendom]]. 
 Over the course of the next 20 to 30 years the Alliance between the two stellar nations evolved into a singular nation state in and of itself.
-This alliance was formed in the aftermath of [[The First Stellar War]] as an attempt to prevent another full scale interstellar war from ever occurring again. Both the [[Terran]]s and [[Du'Lak]] had a long history of total warfare, but this war was so devastating that both sides agreed that such a thing must be prevented at all costs in the future.
+This alliance was formed in the aftermath of [[The First Stellar War]] as an attempt to prevent another full scale interstellar war from ever occurring again. Both the [[Races/Terran]]s and [[Du'Lak]] had a long history of total warfare, but this war was so devastating that both sides agreed that such a thing must be prevented at all costs in the future.
 
 ##### Growth
 The Alliance expanded Quickly throughout Omnia, making use of the Ringworld's Gateways to quickly expand throughout the Omnia's Alpha Arm, Core, and then Beta Arm.
@@ -44,8 +44,9 @@ In the year [[10,256 ARD]] the Alliance discovered a race calling themselves the
 The Alliance has always had issues expanding in certain regions, but an area of space known as the [[Dead Zone]] seemed to be rife with missing colonies and ships that never reached their destination. In [[10,345 ARD]] the Alliance first discovered why this was. 
 The Xavaan, claimed this region of space as their own, and aggressively defended it against any incursions by the Alliance. Once the Alliance became aware of them, but it became clear the Xavaan were a hivemind with no interest in cooperation, they mostly avoided the [[Dead Zone]].
 
+---
 ##### Modern Day
-Modern Day is considered to be the year [[10,560 ARD]]. The Alliance as it stands is comprised of 9 races; the [[Terran]]s (both biological Terrans and the [[Artificial Intelligence]]), the [[Du'Lak]], the [[Dracon]]s, the [[Frayan]]s, the [[LaeKieDa']], the [[Ennuan]], the [[Zangen]], the [[Vythrinv]], and the [[Ra'avnii]].
+Modern Day is considered to be the year [[10,560 ARD]]. The Alliance as it stands is comprised of 9 races; the [[Races/Terran]]s (both biological Terrans and the [[Artificial Intelligence]]), the [[Du'Lak]], the [[Dracon]]s, the [[Frayan]]s, the [[LaeKieDa']], the [[Ennuan]], the [[Zangen]], the [[Vythrinv]], and the [[Ra'avnii]].
 Alliance space also contains some [[Ship Spirits]], [[Drachnie]], and [[Kelkex]] but the former are not recognised and the latter two generally don't hold citizenship, although it is possible.
 
 ### Governmental Structure

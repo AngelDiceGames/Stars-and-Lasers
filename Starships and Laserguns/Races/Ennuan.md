@@ -13,7 +13,7 @@ The Ennuan's hand is comprised of three fingers and two thumbs. They also have a
 
 The Ennuan's lower wings are attached just above the hips and are much smaller. They are about half the size and do not have a hand. Instead they have a single claw that is often used for climbing in combination with their legs. This claw is attached to a single joint that can be locked in position when fully curled inward to allow the Ennuan to hang from these wings passively. The Ennuan's lower wings are also capable of rotating a full 270 degrees either way in their sockets, allowing them to be used to cling to rock faces while fully inverted without any discomfort.
 
-The Ennuan's faces are similar to [[Terran]]s, though their features are sharper and their eyes more slanted. Their eyes glow faintly in the dark and come in shades of red, yellow and green. Similar to the [[Du'Lak]], the Ennuan have naturally excellent vision.
+The Ennuan's faces are similar to [[Races/Terran]]s, though their features are sharper and their eyes more slanted. Their eyes glow faintly in the dark and come in shades of red, yellow and green. Similar to the [[Du'Lak]], the Ennuan have naturally excellent vision.
 
 The Ennuan have long winglike ears that are covered in a soft fur that helps insulate them from the wind. These are often pierced numerous times. Additionally, they have an odd number of teeth in their top jaw, giving them a single middle tooth which forms a large fang in the centre. They also have two smaller fangs on their lower jaws and their teeth usually interlock perfectly when their mouths are closed.
 

@@ -8,18 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e92521e6e34be70",
+            "id": "12359ad0075d11da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races/Ra'avnii.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2352d256b18f7dfc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Ra'avnii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Ra'avnii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Races/Ra'avnii.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,37 +143,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "3e92521e6e34be70",
+  "active": "2352d256b18f7dfc",
   "lastOpenFiles": [
-    "Races/Ennuan.md",
-    "Races/Floranian.md",
     "Races/Ra'avnii.md",
-    "Races/Frayan.md",
-    "Factions/ACS.md",
-    "Factions/ANI/Alliance Naval Intelligence.md",
-    "Governments/The Empire.md",
-    "Governments/Royal Twill Queendom.md",
-    "Governments/Lii Empire.md",
-    "Governments/Children of Cylax.md",
-    "Governments/United Terran Governance.md",
-    "Governments/The Federation Of Worlds.md",
-    "People/The Illians/5 - Unknown Unknown.md",
-    "People/The Illians/9 - Unknown Atavuli.md",
-    "People/Itzl Atavuli.md",
-    "People/Oscarius Aquilinus.md",
-    "Events/The First Civil War.md",
-    "Factions/Alliance Navy.md",
-    "Factions/AI council.md",
+    "Races/Phanten.md",
     "Places/The Milky Way.md",
+    "Things/Extention.md",
     "Places/Omnia.md",
     "Places/Faraway.md",
-    "People/The Illians/The Illians.md",
-    "People/Dr Harvey Grannel.md",
-    "People/Lanas'nye.md",
-    "People/Raan'ilo.md",
+    "Factions/AI council.md",
+    "Factions/Alliance Navy.md",
+    "Factions/ACS.md",
+    "Factions/Mega Corporations/Alliance Armoury.md",
+    "Factions/Mega Corporations/Civilians Arsenal LLC.md",
+    "Factions/Mega Corporations/Cold Hard Steel.md",
+    "Factions/Mega Corporations/Elite Vessels.md",
+    "Factions/Mega Corporations/Frontier Gauss Technologies Inc..md",
+    "Factions/Mega Corporations/New Horizons Planetary Corporation.md",
+    "Factions/Mega Corporations/Starboats LTD.md",
+    "Factions/Mega Corporations/Tesla Contingency Protocols.md",
+    "Factions/Mega Corporations/The Armourers Guild.md",
+    "Factions/Mega Corporations/The Lunchbar Company.md",
+    "Factions/Mega Corporations/Spiritech.md",
+    "Languages/Nu'VaeLaa.md",
+    "Languages/Terran.md",
+    "Languages/Eagiian.md",
+    "Languages/Du'Lingui.md",
+    "Languages/Dinari.md",
+    "Languages/Aquari.md",
+    "Languages/Dialects/Eagiian",
+    "Languages/Dialects",
     "Images/unknown3.png",
     "Images/unknown4.png",
     "Images/slfrayantransparent.png",
@@ -191,8 +195,6 @@
     "Things/Weapons",
     "Things/Starships",
     "Things",
-    "Places/Ringworlds",
-    "Dates",
-    "Factions/ANI"
+    "Places/Ringworlds"
   ]
 }

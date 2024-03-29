@@ -1,1 +1,1 @@
-Homeworld of the [[Terran]]s and later the [[Artificial Intelligence]]s
+Homeworld of the [[Races/Terran]]s and later the [[Artificial Intelligence]]s

@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "tag:#Race  ",
+        "color": "#ff0000"
+      },
+      {
+        "query": "",
+        "color": "#97a1b9"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 5,
+    "linkThickness": 5,
+    "particleSize": 6,
+    "particleCount": 20
+  }
+}

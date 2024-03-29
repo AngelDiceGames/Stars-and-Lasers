@@ -1,0 +1,1 @@
+This is a language of the upper class of [[The Alliance]]. It is the most information dense language and is very hard to learn.
